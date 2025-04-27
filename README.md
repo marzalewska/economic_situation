@@ -44,6 +44,6 @@ Conclusions:
 
 **Methodology**:
 
-    - Data: Analysis based on annual GDP growth data and country classification by income group.
+- Data: Analysis based on annual GDP growth data and country classification by income group.
     
-    - Methods Analysis: Descriptive statistics, box plots, frequency diagrams, kurtosis and skewness analyses.
+- Methods Analysis: Descriptive statistics, box plots, frequency diagrams, kurtosis and skewness analyses.
